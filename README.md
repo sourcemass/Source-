@@ -16,7 +16,7 @@
 </p>
 
 ## ✨ المميزات
-- يدعم تشغيل الفديو والموسيقي في المحادثة
+- يدعم تشغيل الفديو والموسيقى في المحادثة
 - يدعم المحادثات المتعددة
 - قائمه الانتظار مدعم
 - تخطي وتوقف واستمرار مدعم
@@ -68,5 +68,5 @@
 
 
 ### تم تطوير السورس بواسطة
-<a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a>
+<a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Mohammad"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Mohammad"></a>
 
