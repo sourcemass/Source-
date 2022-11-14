@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "لتنصيب بوت", url="https://t.me/P17_12"
+                        "لتنصيب بوت", url="https://t.me/PPF22"
                     )
                 ],
             ]
