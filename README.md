@@ -63,10 +63,10 @@
 
 
 ### قناة التحديثات والدعم 🎑
-<a href="https://t.me/muisc_Tepthone"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/muisc_Tepthone"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Tepthone"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Tepthone"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
 ### تم تطوير السورس بواسطة
-<a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Mohammad"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Mohammad"></a>
+<a href="https://t.me/PPF22"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/PPF22"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Mohammad"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20mohammad-blue.svg?style=for-the-badge&logo=Mohammad"></a>
 
